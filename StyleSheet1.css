@@ -1,0 +1,43 @@
+﻿body
+{
+
+}
+h1{
+    font-size:100px;
+   text-align:center;
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+#homelist {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    
+}
+a{
+    text-decoration:none;
+}
+li{
+    text-align:center;
+    list-style-type:none;
+}
+p{
+    font:bold;
+    text-align:center;
+}
+#OU {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
