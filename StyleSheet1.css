@@ -22,10 +22,18 @@ li a {
     text-decoration: none;
     list-style-type: none;
     text-align: center;
-    
+    border: rgba(0,0,0,0.25);
+    padding:15px;
+    border-radius:20px;
+    box-sizing:border-box;
+    background-color:mintcream;
 }
-a{
-    text-decoration:none;
+a {
+    text-decoration: none;
+    border: rgba(0,0,0,0.25);
+    padding: 15px;
+    border-radius: 20px;
+    background-color:mintcream;
 }
 li{
     text-align:center;
